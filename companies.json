@@ -1,0 +1,64 @@
+[{
+		"id": 1,
+		"name": "BuildIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Excavation, Plumbing, Electrical, Tiling",
+		"city": "Berlin"
+	},
+	{
+		"id": 2,
+		"name": "LandscapeIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Plumbing, Electrical, Tiling",
+		"city": "Berlin"
+	},
+	{
+		"id": 3,
+		"name": "PaintIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Electrical, Painting, Landscaping",
+		"city": "Berlin"
+	},
+	{
+		"id": 4,
+		"name": "PaveIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Excavation, Plumbing, Painting",
+		"city": "Berlin"
+	},
+	{
+		"id": 5,
+		"name": "PasterIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Plumbing, Landscaping, Painting, Tiling,",
+		"city": "Berlin"
+	},
+	{
+		"id": 6,
+		"name": "RoofIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Excavation, Electrical, Landscaping",
+		"city": "Berlin"
+	},
+	{
+		"id": 7,
+		"name": "PlantIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Excavation, Plumbing, Electrical, Painting",
+		"city": "Berlin"
+	},
+	{
+		"id": 8,
+		"name": "TileIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Excavation, Plumbing, Electrical",
+		"city": "Berlin"
+	},
+	{
+		"id": 9,
+		"name": "CleanIt Construction",
+		"logo": "https://placekitten.com/g/35/35",
+		"specialities": "Excavation, Plumbing, Electrical, Landscaping",
+		"city": "Berlin"
+	}
+]
